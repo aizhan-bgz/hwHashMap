@@ -1,4 +1,4 @@
-package taskCars;
+package task1;
 
 public class Car {
     private String name;
