@@ -1,7 +1,5 @@
 package taskContacts;
 
-import taskCars.Car;
-
 import java.util.HashMap;
 import java.util.Map;
 
